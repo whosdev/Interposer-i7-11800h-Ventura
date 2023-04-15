@@ -15,7 +15,7 @@ Working
 
                 
 Not working so far      
-Wireless (My wireless card is too old, Might have something I could do to fix it, but I don't use wifi on the desktop.  
+Wireless (My wireless card is too old, Might have something I could do to fix it, but I don't use wifi on the desktop, if I cared enough about it would've buy a bcm94360ng)      
 Sleep (the board is unable to)  
 Audio (because I am lazy and use only bluetooth as sound)       
 
