@@ -4,6 +4,7 @@ Hardware
 Intel i7-11800H Interposer      
 Eryiang HM570   
 RAM: 16GB Cuso 3200mhz (2x8gb)  
+SSD: Samsung Evo 256    
 GPU: Formerly RX6600M, now RX580 2048sp (with RX570 Bios)       
 Wifi/BT: Old ass bcm9443 card from a Macbook pro 2013           
         
