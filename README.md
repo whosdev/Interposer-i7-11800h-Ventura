@@ -1,12 +1,24 @@
 # Interposer-i7-11800h-Ventura
-i7-11800h Interposer
-16gb ram 3200 mhz
-RX580 2048sp
-BCM9443 bluetooth (also works with Intel)
-Stable
-only audiocard/p2 does not work
+
+Hardware
+Intel i7-11800H Interposer
+Eryiang HM570
+RAM: 16GB Cuso 3200mhz (2x8gb)
+GPU: Formerly RX6600M, now RX580 2048sp (with RX570 Bios)
+Wifi/BT: Old ass bcm9443 card from a Macbook pro 2013
+Working
+ Tested with macOS Ventura and Monterey
+ Bluetooth (Native)
+ Everything but
+
+Not working so far
+Wireless (My wireless card is too old, Might have something I could do to fix it, but I don't use wifi on the desktop.
+Sleep (the board is unable to)
+Audio (because I am lazy and use only bluetooth as sound)
 
 
+
+Details
 
 
 
